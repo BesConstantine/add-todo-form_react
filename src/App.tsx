@@ -147,7 +147,7 @@ class App extends React.PureComponent<{}, State> {
         <div className="App-Errors">
           <p className="App-TextError">
             {hasTitleError && 'Please enter the title'}
-            {hasSymbolError && 'use only letters and digits'}
+            {hasSymbolError && 'use only english letters and digits'}
           </p>
           <p className="App-UserError">
             {hasUserError && 'Choose a user'}
