@@ -11,7 +11,7 @@ List of ToDo and ability to add one
 - BEM methodology
 
 ## Preview
-[DEMO LINK](https://besconstantine.)
+[DEMO LINK](https://besconstantine.github.io/add-todo-form_react/)
 
 ## Code
 [CODE LINK](https://github.com/BesConstantine/add-todo-form_react)
